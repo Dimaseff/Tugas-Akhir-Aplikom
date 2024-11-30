@@ -9,7 +9,7 @@ Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi 
 4. **FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md)**
 5. **FILE SETIAP MATERI DALAM FORMAT PDF (.pdf)**
 
-### **Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** , **LaTeX** , dan **Markdown**secara lebih mendetail.** ###  
+### **Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** , **LaTeX** , dan **Markdown** secara lebih mendetail.** ###  
 
 ---
 

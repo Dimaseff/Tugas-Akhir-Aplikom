@@ -1,5 +1,16 @@
-# Tugas Akhir Aplikasi Komputer
-Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** dan **LaTeX** secara lebih mendetail.  
+# Tugas Akhir Projek Aplikasi Komputer
+
+Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi Komputer pada semester 3 di jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Negeri Yogyakarta. Semoga dengan adanya projek ini bisa membantu teman-teman untuk lebih memahami mata kuliah terkait.
+
+File-file dalam laman ini terdiri atas:
+
+FILE SETIAP MATERI DALAM FORMAT EMT (.en)
+IMAGES SETIAP MATERI (.png)
+FILE SETIAP MATERI DALAM FORMAT TEX DOCUMENT (.tex)
+FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md)
+FILE SETIAP MATERI DALAM FORMAT PDF (.pdf)
+
+Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** , **LaTeX** , dan **Markdown**secara lebih mendetail.  
 
 ---
 
@@ -171,3 +182,7 @@ Berikut beberapa alat yang bisa digunakan untuk membuat dan mengedit Markdown:
    - **HackMD**: Editor Markdown kolaboratif untuk bekerja secara bersama-sama.
 
 Markdown fleksibel dan menjadi standar de facto untuk menulis dokumen teks sederhana dengan struktur yang rapi dan konsisten.
+
+### **Berikut adalah Link Hasil Tugas Saya**
+
+https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a

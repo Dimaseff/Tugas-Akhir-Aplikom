@@ -180,8 +180,3 @@ Berikut beberapa alat yang bisa digunakan untuk membuat dan mengedit Markdown:
    - **HackMD**: Editor Markdown kolaboratif untuk bekerja secara bersama-sama.
 
 Markdown fleksibel dan menjadi standar de facto untuk menulis dokumen teks sederhana dengan struktur yang rapi dan konsisten.
-
-### **Berikut adalah Link Hasil Tugas Saya**
-
-### **(https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a)***
-[Tautan Ke Overleaf](https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a) 

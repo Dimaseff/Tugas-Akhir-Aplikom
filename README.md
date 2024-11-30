@@ -150,7 +150,6 @@ Salin kode
 1. Langkah pertama
 2. Langkah kedua
 
-[Tautan ke Google](https://www.google.com)
 
 `Kode inline`
 
@@ -184,4 +183,5 @@ Markdown fleksibel dan menjadi standar de facto untuk menulis dokumen teks seder
 
 ### **Berikut adalah Link Hasil Tugas Saya**
 
-https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a
+### **(https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a)***
+[Tautan Ke Overleaf](https://www.overleaf.com/8873538414tqmhfdphbcdp#c10f1a) 

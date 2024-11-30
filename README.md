@@ -4,7 +4,7 @@ Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi 
 
 ## **File-file dalam laman ini terdiri atas:** ##
 1. **FILE SETIAP MATERI DALAM FORMAT EMT (.en)**
-2. **IMAGES SETIAP MATERI (.png):**
+2. **IMAGES SETIAP MATERI (.png)**
 3. **FILE SETIAP MATERI DALAM FORMAT TEX DOCUMENT (.tex)**
 4. **FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md)**
 5. **FILE SETIAP MATERI DALAM FORMAT PDF (.pdf)**

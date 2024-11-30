@@ -2,13 +2,12 @@
 
 Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi Komputer pada semester 3 di jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Negeri Yogyakarta. Semoga dengan adanya projek ini bisa membantu teman-teman untuk lebih memahami mata kuliah terkait.
 
-File-file dalam laman ini terdiri atas:
-
-FILE SETIAP MATERI DALAM FORMAT EMT (.en)
-IMAGES SETIAP MATERI (.png)
-FILE SETIAP MATERI DALAM FORMAT TEX DOCUMENT (.tex)
-FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md)
-FILE SETIAP MATERI DALAM FORMAT PDF (.pdf)
+## **File-file dalam laman ini terdiri atas:** ##
+1. **FILE SETIAP MATERI DALAM FORMAT EMT (.en):**
+2. **IMAGES SETIAP MATERI (.png):**
+3. **FILE SETIAP MATERI DALAM FORMAT TEX DOCUMENT (.tex):**
+4. **FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md):**
+5. **FILE SETIAP MATERI DALAM FORMAT PDF (.pdf):**
 
 Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** , **LaTeX** , dan **Markdown**secara lebih mendetail.  
 

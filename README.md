@@ -110,3 +110,64 @@ Untuk menulis dan mengkompilasi dokumen LaTeX, Anda bisa menggunakan editor sepe
 - **Overleaf**: Editor berbasis web.
 - **TeXstudio**: Editor lokal yang lengkap.
 - **MikTeX** atau **TeX Live**: Distribusi LaTeX yang berisi semua alat pendukung.
+
+---
+### **MARKDOWN**
+#### **Apa itu Markdown?**
+Markdown adalah bahasa markup ringan yang diciptakan oleh John Gruber dan dirilis pada tahun 2004. Tujuannya adalah membuat proses penulisan dan format dokumen lebih mudah dengan sintaks yang sederhana dan intuitif. Markdown dirancang agar teks yang belum dirender tetap mudah dibaca, berbeda dari bahasa markup lain seperti HTML yang cenderung memiliki sintaks panjang dan kompleks.
+
+#### **Kelebihan Markdown:**
+Kesederhanaan: Sintaks Markdown sangat mudah dipelajari, bahkan bagi pemula.
+Mudah Dibaca: Dokumen Markdown tetap mudah dibaca, bahkan tanpa dirender.
+Portabilitas: Markdown dapat diubah menjadi berbagai format lain seperti HTML, PDF, atau dokumen Word.
+Ringan: File Markdown biasanya berukuran kecil karena hanya berupa teks biasa.
+Didukung Luas: Banyak platform seperti GitHub, GitLab, dan editor teks modern mendukung Markdown secara langsung.
+
+Contoh Sintaks Markdown
+markdown
+Salin kode
+# Judul Besar (H1)
+## Sub Judul (H2)
+### Sub-sub Judul (H3)
+
+**Teks Tebal**
+
+*Teks Miring*
+
+- Item pertama
+- Item kedua
+
+1. Langkah pertama
+2. Langkah kedua
+
+[Tautan ke Google](https://www.google.com)
+
+`Kode inline`
+
+```python
+# Blok kode Python
+print("Hello, world!")
+Ini adalah blok kutipan.
+
+markdown
+Salin kode
+
+### Contoh Alat Edit Markdown
+Berikut beberapa alat yang bisa digunakan untuk membuat dan mengedit Markdown:
+
+1. **Editor Teks**:
+   - **Notepad++** (Windows): Mendukung sintaks Markdown.
+   - **Visual Studio Code**: Memiliki ekstensi untuk pratinjau Markdown secara langsung.
+   - **Sublime Text**: Menyediakan dukungan Markdown dengan plugin.
+
+2. **Editor Markdown Khusus**:
+   - **Typora**: Editor Markdown WYSIWYG (What You See Is What You Get) populer.
+   - **Mark Text**: Editor Markdown gratis dan open-source dengan pratinjau langsung.
+   - **Obsidian**: Cocok untuk membuat catatan berbasis Markdown dengan fitur pengelolaan graf.
+
+3. **Alat Online**:
+   - **Dillinger**: Editor Markdown berbasis web dengan pratinjau langsung.
+   - **StackEdit**: Editor Markdown online dengan fitur integrasi cloud.
+   - **HackMD**: Editor Markdown kolaboratif untuk bekerja secara bersama-sama.
+
+Markdown fleksibel dan menjadi standar de facto untuk menulis dokumen teks sederhana dengan struktur yang rapi dan konsisten.

@@ -1,4 +1,4 @@
-# Tugas-Akhir-Aplikasi-Komputer
+# Tugas Akhir Aplikasi Komputer
 Tentu! Mari kita bahas **EMT (Euler Math Toolbox)** dan **LaTeX** secara lebih mendetail.  
 
 ---
